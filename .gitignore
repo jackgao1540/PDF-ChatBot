@@ -1,0 +1,4 @@
+llm-venv/
+*.bin
+*.txt
+*.npy
